@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "tedbergeron",
-    "repositoryName": "Transition",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"tedbergeron","repositoryName":"Transition","branch":"gh-pages"},"site":{"title":"Transition","description":"A blog about Transition","url":"https://tedbergeron.github.io/Transition"},"socialnetwork":{},"theme":{"name":"Casper","url":"//tedbergeron.github.io/Transition/themes/Casper"}}
