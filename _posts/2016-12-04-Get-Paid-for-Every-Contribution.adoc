@@ -1,7 +1,7 @@
 = Get Paid for Every Contribution
-test this
 
-TIP: The use of money is the root of all evil.
+
+=== The use of money is the root of all evil.
 
 We were born into a world that requires us to use money.
 
