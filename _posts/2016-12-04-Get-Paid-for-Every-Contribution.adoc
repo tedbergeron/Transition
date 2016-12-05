@@ -33,7 +33,7 @@ We must prioritize our contributions, doing things for money first, before doing
 
 One of the biggest problems with using money is it forces us to choose to do something to get money to survive.
 Often in despiration people end up chosing to do something to get money even if in goes against their better moral judgement.
-Most people have never been this desperate, but when it comes done to survival, they will choose the work over starving, or losing their house, or car, or whatever they value in this world.
+Most people have never been this desperate, but when it comes down to survival, they will choose the work over starving, or losing their house, or car, or whatever they value in this world.
 
 One solution is link:https://www.ubuntuplanet.org/[Ubuntu contributionism] where everyone contributes few hours a week.
 To make sure every man, woman and child has food, clothes, shelter, electricity and healthcare.
